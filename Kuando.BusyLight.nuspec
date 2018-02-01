@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Kuando.Busylight</id>
+    <version>3.0.0.6</version>
+    <authors>plenom</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An SDK that enables .NET developers to use C++, C#, or Visual Basic to create applications for Busylight UC.</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+  <files>
+    <file src="BusylightSDK.dll" target="lib" />
+  </files>
+</package>
