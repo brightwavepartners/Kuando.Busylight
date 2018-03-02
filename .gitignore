@@ -19,7 +19,6 @@ release.cmd
 
 # Ignore most popular binaries in Windows
 *.exe
-*.dll
 
 # Roslyn stuff
 *.sln.ide
